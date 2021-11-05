@@ -1,6 +1,6 @@
 name: flutter_geocoder
 description: Forward and reverse geocoding.
-version: 0.3.0
+version: 0.0.1
 homepage: https://github.com/SmarttersStudio/flutter_geocoder
 
 environment:
@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  meta: ^1.7.0
 
 flutter:
   plugin:
